@@ -1,16 +1,25 @@
-## Hi there 👋
+## Salut, moi c'est Quentin 👋
+Étudiant en BUT Informatique à l'IUT d'Amiens, spécialité Développement d'applications.
+Je recherche une alternance pour mettre les mains dans le code sur des projets concrets.
 
-<!--
-**Quentin-Lefevre026/Quentin-Lefevre026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Ce que je maîtrise
 
-Here are some ideas to get you started:
+- Langages : Python, C++, C#, SQL, HTML
+- Outils : Git, VS Code, VS
+- Méthodes : Travail en équipe, gestion de projet (SAÉ en conditions réelles)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Mes projets
+
+⚠️ Section en cours de construction - les projets arrivent bientôt !
+
+🎯 Ce que je recherche
+Une alternance dans le développement d'applications où je pourrai apprendre vite, contribuer vraiment, et évoluer aux côtés d'une équipe passionnée.
+
+📬 Me contacter
+
+📧 quentin.lefevre026@gmail.com
+📍 Amiens (80)
+
+
+"En cours d'apprentissage, mais motivé à 100%." 💪
