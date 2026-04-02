@@ -14,7 +14,8 @@ Je recherche une alternance pour mettre les mains dans le code sur des projets c
 ⚠️ Section en cours de construction - les projets arrivent bientôt !
 
 🎯 Ce que je recherche
-Une alternance dans le développement d'applications où je pourrai apprendre vite, contribuer vraiment, et évoluer aux côtés d'une équipe passionnée.
+
+- Une alternance dans le développement d'applications où je pourrai apprendre vite, contribuer vraiment, et évoluer aux côtés d'une équipe passionnée.
 
 📬 Me contacter
 
