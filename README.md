@@ -23,4 +23,4 @@ Je recherche une alternance pour mettre les mains dans le code sur des projets c
 📍 Amiens (80)
 
 
-"En cours d'apprentissage, mais motivé à 100%." 💪
+"En cours d'apprentissage, mais motivé à 100%." 
