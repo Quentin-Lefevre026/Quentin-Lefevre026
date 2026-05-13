@@ -4,7 +4,7 @@ Je recherche une alternance pour mettre les mains dans le code sur des projets c
 
 🛠️ Ce que je maîtrise
 
-- Langages : Python, C++, C#, SQL, HTML
+- Langages : Python, C++, C#, SQL, HTML, Java
 - Outils : Git, VS Code, VS
 - Méthodes : Travail en équipe, gestion de projet (SAÉ en conditions réelles)
 
