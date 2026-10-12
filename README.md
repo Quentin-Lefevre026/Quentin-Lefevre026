@@ -1,13 +1,11 @@
 ## Salut, moi c'est Quentin 👋
 Étudiant en BUT Informatique à l'IUT d'Amiens, spécialité Développement d'applications.
-Je recherche une alternance pour mettre les mains dans le code sur des projets concrets.
 
 🛠️ Ce que je maîtrise
 
-- Langages : Python, C++, C#, SQL, HTML, Java
+- Langages : Python, C? C++, C#, SQL, Java
 - Outils : Git, VS Code, VS
 - Méthodes : Travail en équipe, gestion de projet (SAÉ en conditions réelles)
-
 
 🚀 Mes projets
 
@@ -15,12 +13,7 @@ Je recherche une alternance pour mettre les mains dans le code sur des projets c
 
 🎯 Ce que je recherche
 
-- Une alternance dans le développement d'applications où je pourrai apprendre vite, contribuer vraiment, et évoluer aux côtés d'une équipe passionnée.
-
-📬 Me contacter
+- Un stage dans le développement d'applications où je pourrai apprendre vite, contribuer vraiment, et évoluer aux côtés d'une équipe passionnée.
 
 📧 quentin.lefevre026@gmail.com
 📍 Amiens (80)
-
-
-"En cours d'apprentissage, mais motivé à 100%." 
